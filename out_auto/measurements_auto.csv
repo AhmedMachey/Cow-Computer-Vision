@@ -1,0 +1,2 @@
+index,area_px,length_px,height_px,length_m_estimated,weight_kg,bbox_x,bbox_y,bbox_w,bbox_h,mask,crop,overlay
+0,195930.5,821.5955810546875,457.63470458984375,2.4525241225513055,525.7572367653917,81,69,898,549,C:\Users\AHMED\OneDrive\Desktop\projet\out_auto\cow_00_mask.png,C:\Users\AHMED\OneDrive\Desktop\projet\out_auto\cow_00_crop.png,C:\Users\AHMED\OneDrive\Desktop\projet\out_auto\cow_00_overlay.png
